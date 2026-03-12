@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "MAYBAGONA.aternos.me",
-    "port": 11062,
+    "ip": "BagongBaryoSMPS2.aternos.me",
+    "port": 44457,
     "version": "1.21.1",
     "try-creative": false
   },

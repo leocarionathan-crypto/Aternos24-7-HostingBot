@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "BagongBaryoSMPS2.aternos.me",
-    "port": 44457,
+    "ip": "NP14.aternos.me",
+    "port": 44452,
     "version": "1.21.1",
     "try-creative": false
   },

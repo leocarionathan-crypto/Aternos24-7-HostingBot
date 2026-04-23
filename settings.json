@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "NP14.aternos.me",
-    "port": 44452,
+    "ip": "WorldDomination-RI0P.aternos.me",
+    "port": 14506,
     "version": "1.21.1",
     "try-creative": false
   },
